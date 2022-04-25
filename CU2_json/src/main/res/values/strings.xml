@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CheckUpdate</string>
+
+    <string name="check_update">检查更新</string>
+
+    <string name="update_info">https://raw.githubusercontent.com/twilightkhq/CheckUpdate/master/Json/version_info.json</string>
+
+</resources>

@@ -15,3 +15,6 @@ dependencyResolutionManagement {
 rootProject.name = "CheckUpdate"
 include ':app'
 include ':DM'
+include ':checkupdate'
+include ':CU1'
+include ':CU2_json'
